@@ -1,1 +1,3 @@
 Hello, my name is Abrham Gizachew. I am learning Git and GitHub!
+
+Hi , my name is Haymanot Tamrie. I am learning Git and GitHub!
